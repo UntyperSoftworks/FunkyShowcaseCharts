@@ -1,0 +1,57 @@
+{
+	"events": [
+		{
+			"params": [
+				112
+			],
+			"time": 5454.54545454545,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				5,
+				4,
+				false
+			],
+			"time": 234740.25974026,
+			"name": "Time Signature Change"
+		},
+		{
+			"params": [
+				154
+			],
+			"time": 261525.974025974,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				4,
+				4,
+				false
+			],
+			"time": 261525.974025974,
+			"name": "Time Signature Change"
+		},
+		{
+			"params": [
+				138
+			],
+			"time": 298928.571428571,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				112
+			],
+			"time": 300667.701863354,
+			"name": "BPM Change"
+		},
+		{
+			"params": [
+				122
+			],
+			"time": 324239.130434783,
+			"name": "BPM Change"
+		}
+	]
+}
